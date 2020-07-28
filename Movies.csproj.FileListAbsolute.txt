@@ -1,0 +1,7 @@
+C:\Users\Raheel\Desktop\TRAINING C#\Day2\Movies\bin\Debug\Movies.exe.config
+C:\Users\Raheel\Desktop\TRAINING C#\Day2\Movies\bin\Debug\Movies.exe
+C:\Users\Raheel\Desktop\TRAINING C#\Day2\Movies\bin\Debug\Movies.pdb
+C:\Users\Raheel\Desktop\TRAINING C#\Day2\Movies\obj\Debug\Movies.csprojAssemblyReference.cache
+C:\Users\Raheel\Desktop\TRAINING C#\Day2\Movies\obj\Debug\Movies.csproj.CoreCompileInputs.cache
+C:\Users\Raheel\Desktop\TRAINING C#\Day2\Movies\obj\Debug\Movies.exe
+C:\Users\Raheel\Desktop\TRAINING C#\Day2\Movies\obj\Debug\Movies.pdb
